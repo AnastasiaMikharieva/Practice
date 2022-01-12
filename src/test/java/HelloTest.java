@@ -3,5 +3,6 @@ public class HelloTest {
 
         System.out.println("Hello");
         System.out.println("Second commit");
+        System.out.println("Local repo has already published to GitHub ");
     }
 }
